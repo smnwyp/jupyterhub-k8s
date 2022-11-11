@@ -7,4 +7,4 @@ singleuser:
     - display_name: "Spark environment"
       description: "The Jupyter Stacks spark image!"
       kubespawner_override:
-        image: jupyter/pyspark-notebook
+        image: jupyter/pyspark-noteboo
