@@ -1,3 +1,5 @@
+documentation: https://z2jh.jupyter.org/en/stable/jupyterhub/installation.html
+
 ```commandline
 $ minikube start
 $ minikube tunnel
